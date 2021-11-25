@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T09:29:05.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="P62PCd04kbwQl1khaZx1" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T09:36:37.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="0y1-lgdhpwUxpwGOtw9Z" version="15.8.4" type="github">
   <diagram id="YpmzYv2C-9B5NF55NV34" name="Page-1">
     <mxGraphModel dx="1869" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-2" value="packets" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1110" width="90" height="60" as="geometry" />
+          <mxGeometry x="430" y="1110" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6WoNJw-69RXGHt3JCiS-3" target="F6WoNJw-69RXGHt3JCiS-29">
           <mxGeometry relative="1" as="geometry" />
@@ -121,8 +121,8 @@
         <mxCell id="F6WoNJw-69RXGHt3JCiS-13" value="MessageParser&lt;br&gt;(tcp_message.go)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="120" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6WoNJw-69RXGHt3JCiS-14" value="10个协程消费packet数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="592" y="1010" width="145" height="30" as="geometry" />
+        <mxCell id="F6WoNJw-69RXGHt3JCiS-14" value="10个协程消费packet数据&lt;br&gt;10个协程共享一个messageParser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1010" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-15" value="1个协程接收packet数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="1065" width="145" height="30" as="geometry" />
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-33" value="parsePacket解析TCP数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="1010" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6WoNJw-69RXGHt3JCiS-34" value="processPacket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="985" y="1010" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
