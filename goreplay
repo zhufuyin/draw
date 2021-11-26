@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T02:59:52.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Pe3lXnJa2awajzlWKBQY" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T03:00:21.780Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="vzpQ3R7jBatQzJOH4ysY" version="15.8.4" type="github">
   <diagram id="YpmzYv2C-9B5NF55NV34" name="Page-1">
     <mxGraphModel dx="1869" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,9 +212,6 @@
         </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-45" value="&lt;font color=&quot;#ff3333&quot;&gt;http2并发问题&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="960" y="910" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="F6WoNJw-69RXGHt3JCiS-46" value="&lt;font color=&quot;#000000&quot;&gt;获取队列的锁&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-47" value="message数组1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1250" y="1040" width="120" height="30" as="geometry" />
