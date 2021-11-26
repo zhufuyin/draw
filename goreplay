@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T09:51:50.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="0Nfa7gkg7i_94Bqfnjch" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-26T02:24:34.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="KdNkUqwGeNGy88t9kzYv" version="15.8.4" type="github">
   <diagram id="YpmzYv2C-9B5NF55NV34" name="Page-1">
     <mxGraphModel dx="1869" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-42" value="Message&lt;br&gt;tcp_message.go" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1005" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6WoNJw-69RXGHt3JCiS-45" value="&lt;font color=&quot;#ff3333&quot;&gt;http2并发问题&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="960" y="910" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
