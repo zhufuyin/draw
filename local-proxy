@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T06:26:02.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZRTaMmhD0BSrgehOyJrL" version="15.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T06:26:12.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="oAWCpA5_BvThUe2gqUDW" version="15.9.3" type="github">
   <diagram id="sjgoXk5otDqLp5wNUd8l" name="Page-1">
     <mxGraphModel dx="2507" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         <mxCell id="WqdIxzixc0P-rQ252Faa-5" value="instanceN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="190" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WqdIxzixc0P-rQ252Faa-6" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WqdIxzixc0P-rQ252Faa-6" value="zookeeper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-940" y="290" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WqdIxzixc0P-rQ252Faa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WqdIxzixc0P-rQ252Faa-11" target="WqdIxzixc0P-rQ252Faa-6">
