@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T06:52:21.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="70VYG31R2FpCSOW2UEH8" version="15.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T09:02:56.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="vBDwHg1GIsIJ6acxU78J" version="15.9.3" type="github">
   <diagram id="sjgoXk5otDqLp5wNUd8l" name="Page-1">
     <mxGraphModel dx="3338" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -434,6 +434,12 @@
         </mxCell>
         <mxCell id="VF5QNPvUMbciMjK_vOAY-43" value="websocket http message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1473" y="1610" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VF5QNPvUMbciMjK_vOAY-45" value="watch proxy server状态放在node里" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="1631" width="113" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="VF5QNPvUMbciMjK_vOAY-46" value="publish/subscribe的主题使用规则topicHttpCopy_&amp;lt;userId&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="1561" width="170" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
