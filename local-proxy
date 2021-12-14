@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T09:10:13.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="k9S5pcCJKU3qjgGFRxNY" version="15.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T09:10:59.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zAzjk2sOGI-qmdBRnPYw" version="15.9.3" type="github">
   <diagram id="sjgoXk5otDqLp5wNUd8l" name="Page-1">
     <mxGraphModel dx="3338" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -361,8 +361,8 @@
         <mxCell id="VF5QNPvUMbciMjK_vOAY-24" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#000000;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-1092" y="1548.5" width="87" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="VF5QNPvUMbciMjK_vOAY-25" value="排除使用中的ip port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="1561" width="120" height="30" as="geometry" />
+        <mxCell id="VF5QNPvUMbciMjK_vOAY-25" value="排除使用中的proxy server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="1550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VF5QNPvUMbciMjK_vOAY-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="VF5QNPvUMbciMjK_vOAY-30" target="VF5QNPvUMbciMjK_vOAY-21">
           <mxGeometry relative="1" as="geometry">
