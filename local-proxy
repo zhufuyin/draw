@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T12:37:21.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Iub3fn05QjVnNsd6Ztz7" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T12:51:46.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KNS_7_uxToxZeSEVYZGt" version="15.9.6" type="github">
   <diagram id="sjgoXk5otDqLp5wNUd8l" name="Page-1">
     <mxGraphModel dx="3466" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -454,6 +454,51 @@
         </mxCell>
         <mxCell id="7hED_JiUF9lRDEUysU9J-2" value="idle" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="805" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-5" value="维护 用户userId -&amp;gt; proxy server&lt;br&gt;web server在控制proxy server时根据userId找到对应的proxy server对其进行控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1790" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-6" value="userId-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="1400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-7" value="proxy server i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="1400" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-8" value="userId-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-9" value="proxy server j" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="1430" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-10" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-11" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="1460" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-12" value="redis数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1516.5" y="1370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-13" value="proxy server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="1400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-14" value="http server i" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="1400" width="76.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-15" value="proxy server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1299.5" y="1430" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-16" value="http server j" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="1430" width="76.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-17" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1299.5" y="1460" width="79.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-18" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="1460" width="76.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hED_JiUF9lRDEUysU9J-19" value="zk数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1296" y="1370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
