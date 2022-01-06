@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T10:21:43.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QhhkGyIeEQQwZKf8PnJP" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T10:22:25.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hsduZ9Ii2b1N51-d4vWW" version="16.1.0" type="github">
   <diagram id="ieMb11dPb540Bh0YM1uh" name="Page-1">
     <mxGraphModel dx="985" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,8 +327,8 @@
         <mxCell id="1DxOFOeDYpe0cH03sY7v-14" value="limiter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="-350" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1DxOFOeDYpe0cH03sY7v-21" value="获取Auth Token对应的business id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-460" width="190" height="25" as="geometry" />
+        <mxCell id="1DxOFOeDYpe0cH03sY7v-21" value="token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-375" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="1DxOFOeDYpe0cH03sY7v-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="1DxOFOeDYpe0cH03sY7v-22" target="1DxOFOeDYpe0cH03sY7v-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
