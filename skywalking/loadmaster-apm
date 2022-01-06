@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T13:54:11.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zLVrZPHgHE_05v3cNAoE" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T14:31:34.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="m2z22430CzM6VDXRvA9V" version="16.1.0" type="github">
   <diagram id="ieMb11dPb540Bh0YM1uh" name="Page-1">
     <mxGraphModel dx="985" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -730,10 +730,10 @@
         <mxCell id="GWKsahq5mHt3iESLJpMX-131" value="skywalking oap server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="318" y="1340" width="152" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWKsahq5mHt3iESLJpMX-132" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" edge="1" parent="1">
+        <mxCell id="GWKsahq5mHt3iESLJpMX-132" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GWKsahq5mHt3iESLJpMX-131">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="154" y="1185.75" as="sourcePoint" />
-            <mxPoint x="322" y="1360" as="targetPoint" />
+            <mxPoint x="300" y="1360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="214" y="1186" />
               <mxPoint x="214" y="1360" />
