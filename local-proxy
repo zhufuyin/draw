@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T08:46:02.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zjj2P6zvtYFVYKsXu3A4" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T09:23:45.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LCvF_ii__Uf4EhkUplpj" version="16.2.4" type="github">
   <diagram id="sjgoXk5otDqLp5wNUd8l" name="Page-1">
     <mxGraphModel dx="3466" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
         <mxCell id="WqdIxzixc0P-rQ252Faa-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" parent="1" source="WqdIxzixc0P-rQ252Faa-11" target="WqdIxzixc0P-rQ252Faa-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WqdIxzixc0P-rQ252Faa-11" value="apm-webapp" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WqdIxzixc0P-rQ252Faa-11" value="web server" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-945" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WqdIxzixc0P-rQ252Faa-17" value="注册ip port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -163,10 +163,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WqdIxzixc0P-rQ252Faa-20" value="页面中显示代理的host,port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-930" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-955" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WqdIxzixc0P-rQ252Faa-23" value="查询IP port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="WqdIxzixc0P-rQ252Faa-23" value="查询proxy ip:port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-960" y="445" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WqdIxzixc0P-rQ252Faa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="WqdIxzixc0P-rQ252Faa-25" target="WqdIxzixc0P-rQ252Faa-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -178,10 +178,10 @@
           <mxGeometry x="-1120" y="317.5" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WqdIxzixc0P-rQ252Faa-30" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1110" y="400" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1108.5" y="390" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WqdIxzixc0P-rQ252Faa-32" value="记录使用中的host,port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1220" y="390" width="120" height="55" as="geometry" />
+        <mxCell id="WqdIxzixc0P-rQ252Faa-32" value="记录使用中的&lt;br&gt;ip:port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1212" y="390" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="ovp2vCfo5H-H-0GSd2il-51" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="WqdIxzixc0P-rQ252Faa-35" target="WqdIxzixc0P-rQ252Faa-42">
           <mxGeometry relative="1" as="geometry" />
@@ -443,13 +443,13 @@
         <mxCell id="7hED_JiUF9lRDEUysU9J-6" value="user-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1520" y="1400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hED_JiUF9lRDEUysU9J-7" value="proxy server i" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7hED_JiUF9lRDEUysU9J-7" value="proxy ip:port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1460" y="1400" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7hED_JiUF9lRDEUysU9J-8" value="user-2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1520" y="1430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hED_JiUF9lRDEUysU9J-9" value="proxy server j" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7hED_JiUF9lRDEUysU9J-9" value="proxy ip:port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1460" y="1430" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7hED_JiUF9lRDEUysU9J-10" value="..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -461,16 +461,16 @@
         <mxCell id="7hED_JiUF9lRDEUysU9J-12" value="redis数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1516.5" y="1370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hED_JiUF9lRDEUysU9J-13" value="proxy server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7hED_JiUF9lRDEUysU9J-13" value="proxy ip:port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1300" y="1400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hED_JiUF9lRDEUysU9J-14" value="http server i" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7hED_JiUF9lRDEUysU9J-14" value="http ip:port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="1400" width="76.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hED_JiUF9lRDEUysU9J-15" value="proxy server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7hED_JiUF9lRDEUysU9J-15" value="proxy ip:port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1299.5" y="1430" width="79.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7hED_JiUF9lRDEUysU9J-16" value="http server j" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7hED_JiUF9lRDEUysU9J-16" value="http ip:port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="1430" width="76.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7hED_JiUF9lRDEUysU9J-17" value="..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
