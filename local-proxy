@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T12:42:27.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="BXZXVrUCSwOhXtDhaziL" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T13:59:33.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="hNyAgxmw1zd2Ia7GEUXb" version="16.2.7" type="github">
   <diagram id="sjgoXk5otDqLp5wNUd8l" name="Page-1">
     <mxGraphModel dx="3466" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -419,7 +419,7 @@
         <mxCell id="VF5QNPvUMbciMjK_vOAY-41" value="publish&lt;br&gt;(httpCopyChan_&amp;lt;userId&amp;gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-1018.5" y="1667" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VF5QNPvUMbciMjK_vOAY-43" value="websocket &lt;br&gt;coppied data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="VF5QNPvUMbciMjK_vOAY-43" value="websocket &lt;br&gt;request data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1428" y="1628" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ovp2vCfo5H-H-0GSd2il-90" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="7hED_JiUF9lRDEUysU9J-2" target="ovp2vCfo5H-H-0GSd2il-89" edge="1">
@@ -714,6 +714,21 @@
         </mxCell>
         <mxCell id="ovp2vCfo5H-H-0GSd2il-46" value="确认数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Zdq2EyL4h1LRS0BC4w9B-1" vertex="1">
           <mxGeometry x="41" y="40" width="59" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdq2EyL4h1LRS0BC4w9B-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Zdq2EyL4h1LRS0BC4w9B-2" target="Zdq2EyL4h1LRS0BC4w9B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdq2EyL4h1LRS0BC4w9B-2" value="访问站点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1658" y="70" width="88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdq2EyL4h1LRS0BC4w9B-8" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zdq2EyL4h1LRS0BC4w9B-3" target="Zdq2EyL4h1LRS0BC4w9B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdq2EyL4h1LRS0BC4w9B-3" value="打开网页network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zdq2EyL4h1LRS0BC4w9B-4" value="复制url, header, body到case页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1291" y="70" width="191" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
