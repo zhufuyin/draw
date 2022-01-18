@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T13:47:57.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="02MdTolkA85eV8feH9pW" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T03:37:11.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="11A3zlLAS6-hO6qWmF5J" version="16.2.4" type="github">
   <diagram id="sjgoXk5otDqLp5wNUd8l" name="Page-1">
     <mxGraphModel dx="3466" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,11 +165,8 @@
         <mxCell id="WqdIxzixc0P-rQ252Faa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" source="WqdIxzixc0P-rQ252Faa-20" target="WqdIxzixc0P-rQ252Faa-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WqdIxzixc0P-rQ252Faa-20" value="页面中显示代理的host,port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WqdIxzixc0P-rQ252Faa-20" value="获取代理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1061.5" y="490" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WqdIxzixc0P-rQ252Faa-23" value="查询proxy ip:port" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1013" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WqdIxzixc0P-rQ252Faa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="WqdIxzixc0P-rQ252Faa-25" target="WqdIxzixc0P-rQ252Faa-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -485,7 +482,7 @@
         <mxCell id="ovp2vCfo5H-H-0GSd2il-7" value="&lt;font color=&quot;#000000&quot;&gt;http server&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="1659.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ovp2vCfo5H-H-0GSd2il-10" value="&lt;font color=&quot;#000000&quot;&gt;proxy copy 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ovp2vCfo5H-H-0GSd2il-10" value="&lt;font color=&quot;#000000&quot;&gt;proxy 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="1699.5" width="120" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="ovp2vCfo5H-H-0GSd2il-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="ovp2vCfo5H-H-0GSd2il-12" target="ovp2vCfo5H-H-0GSd2il-7">
@@ -497,7 +494,7 @@
         <mxCell id="ovp2vCfo5H-H-0GSd2il-13" value="1. start&lt;br&gt;2. pause&lt;br&gt;3. continue&lt;br&gt;4. finish" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-2190" y="1647.5" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ovp2vCfo5H-H-0GSd2il-14" value="proxy" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="ovp2vCfo5H-H-0GSd2il-14" value="proxy server" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="1599.5" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ovp2vCfo5H-H-0GSd2il-48" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="ovp2vCfo5H-H-0GSd2il-17">
@@ -703,13 +700,13 @@
         <mxCell id="ovp2vCfo5H-H-0GSd2il-98" value="allocate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="1284" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ovp2vCfo5H-H-0GSd2il-100" value="&lt;font color=&quot;#000000&quot;&gt;proxy copy 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ovp2vCfo5H-H-0GSd2il-100" value="&lt;font color=&quot;#000000&quot;&gt;proxy 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="1720" width="120" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="ovp2vCfo5H-H-0GSd2il-103" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="ovp2vCfo5H-H-0GSd2il-101" target="ovp2vCfo5H-H-0GSd2il-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ovp2vCfo5H-H-0GSd2il-101" value="&lt;font color=&quot;#000000&quot;&gt;proxy copy n&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ovp2vCfo5H-H-0GSd2il-101" value="&lt;font color=&quot;#000000&quot;&gt;proxy n&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="1761" width="120" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="ovp2vCfo5H-H-0GSd2il-102" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
