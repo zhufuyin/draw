@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T09:01:47.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="soxYzL5UoROlfF4V9nqD" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T09:03:44.909Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4kJgzr4TKwNEtiIYAtvN" version="16.2.7" type="github">
   <diagram id="YpmzYv2C-9B5NF55NV34" name="Page-1">
     <mxGraphModel dx="1812" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,6 +209,22 @@
         <mxCell id="F6WoNJw-69RXGHt3JCiS-38" value="packet 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1789" y="1065" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="s_e-ycSoghC7ts_NxYAu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F6WoNJw-69RXGHt3JCiS-39" target="s_e-ycSoghC7ts_NxYAu-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1834" y="1290" />
+              <mxPoint x="1600" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_e-ycSoghC7ts_NxYAu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F6WoNJw-69RXGHt3JCiS-39" target="s_e-ycSoghC7ts_NxYAu-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1834" y="1290" />
+              <mxPoint x="1800" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F6WoNJw-69RXGHt3JCiS-39" value="packet N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="1789" y="1145" width="90" height="40" as="geometry" />
         </mxCell>
@@ -274,6 +290,12 @@
         </mxCell>
         <mxCell id="s_e-ycSoghC7ts_NxYAu-8" value="&lt;h1&gt;数据抓取和处理&lt;/h1&gt;&lt;p&gt;capture.go(Listener#read)接收pcap数据后放进chan(parser.packets)中，tcp_message(MessageParser#wait)处理parser.packets中的数据&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s_e-ycSoghC7ts_NxYAu-9" value="grpc &lt;br&gt;ReadHttp2Stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s_e-ycSoghC7ts_NxYAu-10" value="dubbo &lt;br&gt;readTcpPacket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
