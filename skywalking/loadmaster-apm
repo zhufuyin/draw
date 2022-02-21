@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T03:22:09.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xiqxcccT1sICtwuKyER1" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T03:31:01.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Ytt8aE5aYrfPA3HOrW7O" version="16.2.7" type="github">
   <diagram id="ieMb11dPb540Bh0YM1uh" name="Page-1">
     <mxGraphModel dx="985" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2372,6 +2372,17 @@
         </mxCell>
         <mxCell id="c2O7BBxEv_xFk4jnpEVC-594" value="queue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275.0400000000001" y="848" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c2O7BBxEv_xFk4jnpEVC-599" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=32;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;shape=flexArrow;" edge="1" parent="1" target="GWKsahq5mHt3iESLJpMX-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="-683" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2O7BBxEv_xFk4jnpEVC-597" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=32;fontColor=#000000;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122" y="-707" width="30" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="c2O7BBxEv_xFk4jnpEVC-600" value="查看指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="156.5" y="-717" width="51" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
