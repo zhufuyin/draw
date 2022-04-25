@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T08:41:26.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MEFGq3F5yQk7MNEGvh9O" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T08:45:58.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-QkREAhCF72ci3O-brOq" version="17.4.6" type="github">
   <diagram id="l-VxkB6Ebsurg7WyrUjj" name="Page-1">
-    <mxGraphModel dx="845" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,6 +264,45 @@
         </mxCell>
         <mxCell id="3IxmOysDBW4vH_oRuGus-95" value="value值" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2020" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5bFUBP2-wDe3VtUHaBbv-4" target="5bFUBP2-wDe3VtUHaBbv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5bFUBP2-wDe3VtUHaBbv-4" target="5bFUBP2-wDe3VtUHaBbv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-4" value="compact" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="383" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-5" value="compact api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="323" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5bFUBP2-wDe3VtUHaBbv-7" target="5bFUBP2-wDe3VtUHaBbv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-7" value="自动压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="393" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5bFUBP2-wDe3VtUHaBbv-11" target="5bFUBP2-wDe3VtUHaBbv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5bFUBP2-wDe3VtUHaBbv-11" target="5bFUBP2-wDe3VtUHaBbv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5bFUBP2-wDe3VtUHaBbv-11" target="5bFUBP2-wDe3VtUHaBbv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-11" value="周期性压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1991" y="363" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-12" value="时间周期&lt;br&gt;auto-compaction-mode=periodic&lt;br&gt;auto-compaction-retention=1h" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="348" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-13" value="保留版本&lt;br&gt;auto-compaction-mode=revision&lt;br&gt;auto-compaction-retention=100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="423" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5bFUBP2-wDe3VtUHaBbv-14" value="关闭自动压缩&lt;br&gt;auto-compaction-mode=0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="283" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
