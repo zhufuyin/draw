@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T15:33:26.507Z" agent="5.0 (Macintosh)" etag="PAVXa6X8XL6Rl3dJkHJI" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T15:40:12.073Z" agent="5.0 (Macintosh)" etag="U3gGPmGwc_ZziJoDrsUw" version="20.0.1" type="github">
   <diagram id="mWKv_vikktxX7gSZlro9" name="Page-1">
     <mxGraphModel dx="1811" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-63" value="更新asset状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kecje9IlqsQ2TpUjcyK3-64" value="通知devicesvr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-64" value="通知modelsvr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
