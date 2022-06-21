@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T14:54:56.353Z" agent="5.0 (Macintosh)" etag="VEDmhZMCrAccRbirYYHh" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T15:18:35.331Z" agent="5.0 (Macintosh)" etag="e9lpOy8K-1ALY5K7Xi5c" version="20.0.1" type="github">
   <diagram id="mWKv_vikktxX7gSZlro9" name="Page-1">
     <mxGraphModel dx="1811" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,11 @@
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-19" value="assetId查询asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-20" target="Kecje9IlqsQ2TpUjcyK3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-20" value="&lt;div&gt;新增设备&lt;br&gt;&lt;/div&gt;AddAsset" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="-359" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-21" target="Kecje9IlqsQ2TpUjcyK3-23">
           <mxGeometry relative="1" as="geometry" />
@@ -126,6 +129,75 @@
         </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-37" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-39" target="Kecje9IlqsQ2TpUjcyK3-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-60" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kecje9IlqsQ2TpUjcyK3-58">
+          <mxGeometry x="-0.05" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-39" value="&lt;div&gt;检查room、&lt;/div&gt;&lt;div&gt;rack、location&lt;/div&gt;存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-364" y="250" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-40" target="Kecje9IlqsQ2TpUjcyK3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-40" value="model查询机型配置tb_model_configs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-41" target="Kecje9IlqsQ2TpUjcyK3-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-45" value="&lt;div&gt;Yes&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kecje9IlqsQ2TpUjcyK3-44">
+          <mxGeometry x="-0.443" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-41" target="Kecje9IlqsQ2TpUjcyK3-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-215" y="505" />
+              <mxPoint x="-215" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-41" value="&lt;div&gt;是否cmdb机房&lt;/div&gt;&lt;div&gt;tb_asset_room room_type== 1&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="465" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-42" target="Kecje9IlqsQ2TpUjcyK3-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-42" value="cmdb查询tdtId" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-43" target="Kecje9IlqsQ2TpUjcyK3-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-43" value="更新model_config的tdt_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-47" target="Kecje9IlqsQ2TpUjcyK3-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-47" value="add asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-50" target="Kecje9IlqsQ2TpUjcyK3-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-50" value="cmdb的tdtId为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="671" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-51" target="Kecje9IlqsQ2TpUjcyK3-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-51" value="cmdb modify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="770" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-55" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
