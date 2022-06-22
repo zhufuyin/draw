@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T02:57:52.582Z" agent="5.0 (Macintosh)" etag="vTS6qbaHtpTNtteUxpgW" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T10:09:31.971Z" agent="5.0 (Macintosh)" etag="rmtQ3R_OsrjdsvMz8fxB" version="20.0.1" type="github">
   <diagram id="mWKv_vikktxX7gSZlro9" name="Page-1">
     <mxGraphModel dx="1811" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-8" target="Kecje9IlqsQ2TpUjcyK3-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kecje9IlqsQ2TpUjcyK3-8" value="devicesvr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-8" value="modelsvr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="465" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-14" target="Kecje9IlqsQ2TpUjcyK3-4">
