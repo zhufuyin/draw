@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T15:40:12.073Z" agent="5.0 (Macintosh)" etag="U3gGPmGwc_ZziJoDrsUw" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T02:57:52.582Z" agent="5.0 (Macintosh)" etag="vTS6qbaHtpTNtteUxpgW" version="20.0.1" type="github">
   <diagram id="mWKv_vikktxX7gSZlro9" name="Page-1">
     <mxGraphModel dx="1811" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,17 +199,26 @@
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-55" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-61" target="Kecje9IlqsQ2TpUjcyK3-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-61" value="&lt;div&gt;设备注册上线&lt;br&gt;&lt;/div&gt;&lt;div&gt;RegisterController#&lt;/div&gt;&lt;div&gt;RegisterAssert&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="110" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-62" target="Kecje9IlqsQ2TpUjcyK3-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-62" value="更新定制机状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kecje9IlqsQ2TpUjcyK3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kecje9IlqsQ2TpUjcyK3-63" target="Kecje9IlqsQ2TpUjcyK3-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-63" value="更新asset状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kecje9IlqsQ2TpUjcyK3-64" value="通知modelsvr" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
