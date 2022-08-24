@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T03:10:06.587Z" agent="5.0 (Macintosh)" etag="YjcIuv0oWiIcAdLXBdn6" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T03:13:29.380Z" agent="5.0 (Macintosh)" etag="exF2267miys10E6TquOj" version="20.2.6" type="github">
   <diagram id="ftSVN6Fw9w7qbt5IRIi7" name="第 1 页">
     <mxGraphModel dx="1095" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyIvLldJ3OBjITECG5pd-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZyIvLldJ3OBjITECG5pd-5" target="ZyIvLldJ3OBjITECG5pd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyIvLldJ3OBjITECG5pd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZyIvLldJ3OBjITECG5pd-5" target="ZyIvLldJ3OBjITECG5pd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyIvLldJ3OBjITECG5pd-5" value="pushsvr-0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -86,16 +89,16 @@
           <mxGeometry x="580" y="540" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZyIvLldJ3OBjITECG5pd-21" value="taskrunner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="540" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyIvLldJ3OBjITECG5pd-22" value="taskmanager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="430" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyIvLldJ3OBjITECG5pd-23" value="pushsvr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyIvLldJ3OBjITECG5pd-24" value="schedulersvr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyIvLldJ3OBjITECG5pd-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZyIvLldJ3OBjITECG5pd-30" target="ZyIvLldJ3OBjITECG5pd-6">
           <mxGeometry relative="1" as="geometry" />
