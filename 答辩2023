@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T05:22:46.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sm8BnsMh0nEcARmJSuaE" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T05:28:01.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vNAg1BMKJ_GZeb9lsFzg" version="20.8.16" type="github">
   <diagram name="第 1 页" id="tPp1Vq1BMgovgBD75F28">
     <mxGraphModel dx="2960" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1516,6 +1516,12 @@
         </mxCell>
         <mxCell id="5YaQfaCO3Dy1WSzE95HW-31" value="wetest新文件服务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=16;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-426.38" y="-765" width="157" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LqheqqGlcpkooJW7ZYNa-1" value="http服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1295.25" y="-1020" width="58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LqheqqGlcpkooJW7ZYNa-2" value="后台任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-659.25" y="-1022" width="58" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
