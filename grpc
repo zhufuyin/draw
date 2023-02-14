@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T14:10:28.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.16" etag="WhsmgUjoFX7jMfNJtX_u" type="github"><diagram name="第 1 页" id="j-OIEG_URSash0C78fMx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-14T14:17:11.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YAVIVlujPcWGETiBc2PC" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="j-OIEG_URSash0C78fMx">
+    <mxGraphModel dx="1136" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-1" target="6uUEc619mtNVFb8Wb-Ru-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-1" value="1.发起rpc请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-2" target="6uUEc619mtNVFb8Wb-Ru-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-2" value="2.寻址路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-3" target="6uUEc619mtNVFb8Wb-Ru-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-3" value="3.codec编码序列化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-4" target="6uUEc619mtNVFb8Wb-Ru-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-4" value="4.通过网络发送数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="348" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-8" target="6uUEc619mtNVFb8Wb-Ru-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-8" value="5.服务端接收到字节流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="348" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-9" target="6uUEc619mtNVFb8Wb-Ru-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-9" value="6.解码、反序列化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-10" target="6uUEc619mtNVFb8Wb-Ru-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-10" value="7.定位rpc方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-11" target="6uUEc619mtNVFb8Wb-Ru-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-11" value="8.执行rpc方法，响应结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-12" target="6uUEc619mtNVFb8Wb-Ru-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-12" value="9.编码、序列化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-13" target="6uUEc619mtNVFb8Wb-Ru-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-13" value="10.通过网络响应数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="348" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-14" target="6uUEc619mtNVFb8Wb-Ru-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-14" value="11.客户端接收数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="348" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6uUEc619mtNVFb8Wb-Ru-15" target="6uUEc619mtNVFb8Wb-Ru-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-15" value="12.解码、反序列化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uUEc619mtNVFb8Wb-Ru-16" value="13.得到rpc调用结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
