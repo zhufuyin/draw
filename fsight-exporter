@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T12:35:39.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d8r0uImgAaVew5yDqP9r" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T13:29:49.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KSMMpNzpJfWpjQucu79u" version="22.0.4" type="github">
   <diagram id="2tnlZKKE06PuX02doDOE" name="第 1 页">
     <mxGraphModel dx="1504" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,12 @@
         <mxCell id="4RWFtKko1gncQRu3vxq8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4RWFtKko1gncQRu3vxq8-5" target="4RWFtKko1gncQRu3vxq8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4RWFtKko1gncQRu3vxq8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4RWFtKko1gncQRu3vxq8-5" target="4RWFtKko1gncQRu3vxq8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4RWFtKko1gncQRu3vxq8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4RWFtKko1gncQRu3vxq8-5" target="4RWFtKko1gncQRu3vxq8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4RWFtKko1gncQRu3vxq8-5" value="handle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="600" width="110" height="40" as="geometry" />
         </mxCell>
@@ -78,6 +84,12 @@
         </mxCell>
         <mxCell id="4RWFtKko1gncQRu3vxq8-16" value="配置字段映射，比如页面上使用的content_a,content_b是从content字段解析得到的，需要配置与content的映射关系，从而确定导出的字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4RWFtKko1gncQRu3vxq8-18" value="数据批处理：如查询autorId对应的name，查询主贴信息等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4RWFtKko1gncQRu3vxq8-19" value="字段转换处理，如枚举值映射、字段解析等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
