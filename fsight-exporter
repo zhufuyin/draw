@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T13:32:25.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="B5Jz1VidL0M-YxKM_wF0" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T13:37:09.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CRrYWC7LZKbzcHRnmQ_4" version="22.0.4" type="github">
   <diagram id="2tnlZKKE06PuX02doDOE" name="第 1 页">
     <mxGraphModel dx="1504" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="4RWFtKko1gncQRu3vxq8-19" value="字段转换处理，如枚举值映射、字段解析等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4RWFtKko1gncQRu3vxq8-22" value="1. 抽象处理函数&lt;br&gt;2. 不同任务类型配置相应的处理函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
