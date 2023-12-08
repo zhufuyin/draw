@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T06:17:26.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.7" etag="Vf30PhV2bH6aDbyzl-nT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T08:05:53.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e9b6UzkmEes6acml3GRG" version="22.1.7" type="github">
   <diagram name="第 1 页" id="JO-BKYn-JYSgVeElQ2Gx">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X66GvBynBoflrQ4vaRRF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X66GvBynBoflrQ4vaRRF-1" target="X66GvBynBoflrQ4vaRRF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X66GvBynBoflrQ4vaRRF-1" target="X66GvBynBoflrQ4vaRRF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X66GvBynBoflrQ4vaRRF-1" target="X66GvBynBoflrQ4vaRRF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X66GvBynBoflrQ4vaRRF-1" target="X66GvBynBoflrQ4vaRRF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-1" value="Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-2" value="TaskSequential" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-3" value="TaskParallel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-4" value="JoinMerge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X66GvBynBoflrQ4vaRRF-5" value="JoinKey" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
