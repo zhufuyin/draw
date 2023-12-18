@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T12:51:23.683Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="X4Aw48sa-wQzYyCjHwHn" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T13:17:15.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4l7913a72pWlOT_RdV57" version="22.1.11" type="github">
   <diagram name="第 1 页" id="fFxLprVTc2z-0SbgyYG7">
     <mxGraphModel dx="2133" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,9 +334,6 @@
         </mxCell>
         <mxCell id="GYxL6wCpQ-yCbX0miNCR-110" value="storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="199" y="849" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GYxL6wCpQ-yCbX0miNCR-111" value="sql模板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-3" y="827" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GYxL6wCpQ-yCbX0miNCR-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="199" y="791" width="240" height="42" as="geometry" />
