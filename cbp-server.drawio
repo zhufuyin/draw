@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:17:15.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4l7913a72pWlOT_RdV57" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T02:50:24.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="shuNMXG0WBZo22FPJQUh" version="22.1.11" type="github">
   <diagram name="第 1 页" id="fFxLprVTc2z-0SbgyYG7">
-    <mxGraphModel dx="2133" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,6 +352,32 @@
         </mxCell>
         <mxCell id="GYxL6wCpQ-yCbX0miNCR-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.316;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;" parent="1" source="GYxL6wCpQ-yCbX0miNCR-112" target="GYxL6wCpQ-yCbX0miNCR-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="okRPHNsVV2y4OmA2dEhY-1" target="okRPHNsVV2y4OmA2dEhY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-1" value="select * from game where id &amp;gt; {{ .game_id }} and name = {{ .game_name }}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="1010" width="421" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="okRPHNsVV2y4OmA2dEhY-2" target="okRPHNsVV2y4OmA2dEhY-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-2" value="select * from game where id &amp;gt; {{ .game_id | replaceCmd }} and name = {{ .game_name | replaceCmd }}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1080" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-3" value="sql: select * from game where id &amp;gt; ?&amp;nbsp; and name = ?&lt;br&gt;arguments：[id, name]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="234.5" y="1150" width="281" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-8" value="Sql模板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="104" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-14" value="修改模板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okRPHNsVV2y4OmA2dEhY-15" value="转换结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
