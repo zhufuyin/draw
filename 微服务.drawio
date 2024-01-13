@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T10:24:44.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="Eaek-BVrySy7U_Uzs0Qr" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T10:38:35.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="C3RIn1ORXb7IwNrjilJd" version="22.1.18" type="github">
   <diagram name="第 1 页" id="Xfvyhsu7DFsMABrmU--E">
-    <mxGraphModel>
+    <mxGraphModel dx="1306" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="himGUJfuDn5OskSPBiYB-1" value="配置中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-2" value="后台服务db、mq、cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-3" value="服务注册发现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-4" value="负载&lt;br&gt;路由" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-5" value="日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-6" value="文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-7" value="统一异常处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-8" value="代码生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-9" value="序列号&lt;br&gt;xml、json、二进制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-10" value="REST、RPC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-11" value="安全、访问控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-12" value="metrics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-13" value="trace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-14" value="限流、熔断" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-15" value="微服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="400" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-16" value="基础设施监控&lt;br&gt;（网络流量、丢包）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1000" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-17" value="系统层监控&lt;br&gt;（CPU、mem、network、disk）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="920" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-18" value="应用层监控&lt;br&gt;（sql、cache）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="840" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-19" value="业务监控&lt;br&gt;（核心指标）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="760" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="himGUJfuDn5OskSPBiYB-20" value="客户端体验监控&lt;br&gt;（返回码、性能、）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="690" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
