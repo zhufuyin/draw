@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T10:38:35.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="C3RIn1ORXb7IwNrjilJd" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T10:39:26.723Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KoWOVRZEEHrqHtfVX4Dl" version="22.1.18" type="github">
   <diagram name="第 1 页" id="Xfvyhsu7DFsMABrmU--E">
     <mxGraphModel dx="1306" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,10 +58,10 @@
         <mxCell id="himGUJfuDn5OskSPBiYB-18" value="应用层监控&lt;br&gt;（sql、cache）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="840" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="himGUJfuDn5OskSPBiYB-19" value="业务监控&lt;br&gt;（核心指标）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="himGUJfuDn5OskSPBiYB-19" value="业务监控&lt;br&gt;（核心指标：登录、下单等）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="760" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="himGUJfuDn5OskSPBiYB-20" value="客户端体验监控&lt;br&gt;（返回码、性能、）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="himGUJfuDn5OskSPBiYB-20" value="客户端体验监控&lt;br&gt;（返回码、性能、版本）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="690" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
