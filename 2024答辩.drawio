@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T13:30:09.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="avOxUy8xALOn6NQ4A1wm" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T08:57:31.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nJ2nz4apqAcHLYyGoL0K" version="22.1.18" type="github">
   <diagram name="第 1 页" id="tel0zK-i6Z4dNTbwuvd0">
     <mxGraphModel dx="1306" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,6 +470,9 @@
         </mxCell>
         <mxCell id="BIOtD-0W4ChOzR4a4uk3-159" value="COS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1317.9399999999998" y="1207" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BIOtD-0W4ChOzR4a4uk3-164" value="业务特征：&lt;br&gt;数据分析查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
