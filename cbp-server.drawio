@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T10:26:34.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9USNTF4e4UW6oGSQGatv" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T11:42:08.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BPA8RJUg6TDwLvOXUVQs" version="22.1.18" type="github">
   <diagram name="第 1 页" id="fFxLprVTc2z-0SbgyYG7">
     <mxGraphModel dx="2088" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -835,30 +835,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-6" value="task1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1263" y="1228" width="60" height="30" as="geometry" />
+          <mxGeometry x="1291" y="1228" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cnb1_vz4HXGjm24MIRr7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Cnb1_vz4HXGjm24MIRr7-8" target="Cnb1_vz4HXGjm24MIRr7-13">
+        <mxCell id="Cnb1_vz4HXGjm24MIRr7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Cnb1_vz4HXGjm24MIRr7-8" target="Cnb1_vz4HXGjm24MIRr7-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-8" value="task2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1348" y="1228" width="60" height="30" as="geometry" />
+          <mxGeometry x="1373" y="1228" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cnb1_vz4HXGjm24MIRr7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Cnb1_vz4HXGjm24MIRr7-10" target="Cnb1_vz4HXGjm24MIRr7-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1452" y="1296" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Cnb1_vz4HXGjm24MIRr7-100" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Cnb1_vz4HXGjm24MIRr7-10" target="Cnb1_vz4HXGjm24MIRr7-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-10" value="task3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1348" y="1267" width="60" height="30" as="geometry" />
+          <mxGeometry x="1373" y="1267" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Cnb1_vz4HXGjm24MIRr7-13" target="Cnb1_vz4HXGjm24MIRr7-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="1261" />
+              <mxPoint x="1550" y="1243" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Cnb1_vz4HXGjm24MIRr7-13" target="Cnb1_vz4HXGjm24MIRr7-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-13" value="task4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1462" y="1246" width="60" height="30" as="geometry" />
+          <mxGeometry x="1469" y="1246" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-14" value="task6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1563" y="1269" width="60" height="30" as="geometry" />
@@ -1067,6 +1070,9 @@
         </mxCell>
         <mxCell id="Cnb1_vz4HXGjm24MIRr7-95" value="COPY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1061" y="1314" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cnb1_vz4HXGjm24MIRr7-101" value="参&lt;br&gt;数&lt;br&gt;校&lt;br&gt;验" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1253" y="1218" width="33" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
