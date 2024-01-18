@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:13:20.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GcRMrdyDMz9HQnWyKz4Z" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:15:41.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QGnoBGzeG8UwU54eJ2M2" version="22.1.18" type="github">
   <diagram name="第 1 页" id="Fcrot-mU-glwpBbpsLPk">
     <mxGraphModel dx="2088" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,6 +115,9 @@
         </mxCell>
         <mxCell id="DLwjavNtBPuCDJZHlJgv-35" value="schema.resolvers&lt;br&gt;implements" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="995" y="105" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DLwjavNtBPuCDJZHlJgv-36" value="1. Query中定义查询对象todos&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Mutation中设置了自定义函数createTodo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. input作为参数&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="633" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
