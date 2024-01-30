@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T08:42:12.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="uvXk0dnPOjZa7bOh-vjZ" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T12:38:56.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pQz4_YT1XwrCl0UdnaGa" version="23.0.2" type="github">
   <diagram name="第 1 页" id="tel0zK-i6Z4dNTbwuvd0">
-    <mxGraphModel dx="1484" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1365,6 +1365,9 @@
         </mxCell>
         <mxCell id="logtqSFKfY6UIqycjtAs-78" value="1. 接收机器人消息&#xa;2. 利用ChatGPT function calling匹配接口&#xa;3. 根据接口配置解析参数&#xa;4. 调用API获取结果&#xa;5. 把结果数据推送给用户" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="3140.27" width="238" height="99.73" as="geometry" />
+        </mxCell>
+        <mxCell id="logtqSFKfY6UIqycjtAs-79" value="handlers&lt;br&gt;config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="2991.27" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
