@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T11:55:23.616Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="b2s6JKZSD4T_uX1UUTXI" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T03:15:10.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Cn2n6iIQIfDd3PqnPrAb" version="23.0.2" type="github">
   <diagram name="第 1 页" id="fFxLprVTc2z-0SbgyYG7">
-    <mxGraphModel dx="2088" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2311" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1740" width="390" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="GYxL6wCpQ-yCbX0miNCR-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1" y="858" width="160" height="90" as="geometry" />
         </mxCell>
@@ -1098,89 +1095,6 @@
         </mxCell>
         <mxCell id="D_NQ9OMVNCd2lWK7el7k-14" value="缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="D_NQ9OMVNCd2lWK7el7k-15">
           <mxGeometry x="4" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-17" target="D_NQ9OMVNCd2lWK7el7k-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-17" target="D_NQ9OMVNCd2lWK7el7k-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-17" value="目标区间声量查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1194" y="1777" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-18" value="SQL模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="1685" width="350" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-19" target="D_NQ9OMVNCd2lWK7el7k-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-19" value="环比区间声量查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1291" y="1855" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-20" target="D_NQ9OMVNCd2lWK7el7k-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-20" value="SQL计算同比区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="1925" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-21" target="D_NQ9OMVNCd2lWK7el7k-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-21" value="SQL计算环比区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1194" y="1855" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-22" target="D_NQ9OMVNCd2lWK7el7k-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-22" value="同比区间声量查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1291" y="1925" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-23" target="D_NQ9OMVNCd2lWK7el7k-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-23" value="SQL计算总口碑值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1349" y="1747" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-24" target="D_NQ9OMVNCd2lWK7el7k-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-24" value="SQL计算环比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1408" y="1855" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-25" target="D_NQ9OMVNCd2lWK7el7k-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1520" y="1947" />
-              <mxPoint x="1520" y="1877" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-25" value="SQL计算同比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1408" y="1925" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-26" target="D_NQ9OMVNCd2lWK7el7k-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="2010" />
-              <mxPoint x="1520" y="2010" />
-              <mxPoint x="1520" y="1877" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-26" value="其它指标查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1194" y="1986" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-27" target="D_NQ9OMVNCd2lWK7el7k-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-27" value="SQL计算分桶口碑值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1347" y="1798" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-28" value="返回结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="1855" width="76" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="D_NQ9OMVNCd2lWK7el7k-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;" edge="1" parent="1" source="D_NQ9OMVNCd2lWK7el7k-18" target="D_NQ9OMVNCd2lWK7el7k-43">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
