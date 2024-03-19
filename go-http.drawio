@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T03:49:10.405Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pTz_orQ_sKudb3y_8jmh" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T06:43:53.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Vxrwbgz2X3FoA1D_cPcz" version="24.0.7" type="github">
   <diagram name="第 1 页" id="gKxK1-_IqgKMyoFifX12">
-    <mxGraphModel dx="1345" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eOoUTsMnTe3TOyzW5_8C-2" value="Server struct" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="560" width="140" height="120" as="geometry" />
+          <mxGeometry x="230" y="398" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eOoUTsMnTe3TOyzW5_8C-3" value="Addr string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="eOoUTsMnTe3TOyzW5_8C-2">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="eOoUTsMnTe3TOyzW5_8C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="eOoUTsMnTe3TOyzW5_8C-4" target="eOoUTsMnTe3TOyzW5_8C-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eOoUTsMnTe3TOyzW5_8C-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ServeMux&lt;/h1&gt;&lt;p&gt;ServeMux实现Handler接口，用map管理一组路由和handler关系，&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="690" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
