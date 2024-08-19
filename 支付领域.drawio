@@ -290,6 +290,9 @@
         <mxCell id="3E3HlsRtL0pauLYrI34w-68" value="财付通" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="875" y="581" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3E3HlsRtL0pauLYrI34w-69" value="结算系统架构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1120" y="635" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
