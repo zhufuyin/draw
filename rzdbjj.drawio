@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2">
   <diagram name="第 1 页" id="pgq3QsQa63Pyk4cBfWm0">
-    <mxGraphModel dx="1134" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="81" y="83" width="210" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="291" y="83.5" width="210" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="501" y="83" width="210" height="137" as="geometry" />
+        </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-250" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1120" y="170" width="210" height="1200" as="geometry" />
         </mxCell>
@@ -17,16 +26,16 @@
           <mxGeometry x="910" y="170" width="210" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-248" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="502" y="180" width="210" height="1370" as="geometry" />
+          <mxGeometry x="502" y="310" width="210" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-247" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="292" y="180" width="210" height="1370" as="geometry" />
+          <mxGeometry x="292" y="310" width="210" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-246" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="82" y="180" width="210" height="1370" as="geometry" />
+          <mxGeometry x="82" y="310" width="210" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-2" value="客户经理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="82" y="140" width="210" height="40" as="geometry" />
+          <mxGeometry x="82" y="270" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YDomJGonDRvsGz5eeTiw-5" target="YDomJGonDRvsGz5eeTiw-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +44,7 @@
           <mxGeometry x="120" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-8" value="上海市担保中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="502" y="140" width="210" height="40" as="geometry" />
+          <mxGeometry x="502" y="270" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YDomJGonDRvsGz5eeTiw-10" target="YDomJGonDRvsGz5eeTiw-141" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -48,32 +57,8 @@
         <mxCell id="YDomJGonDRvsGz5eeTiw-10" value="业务规则校验" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="547" y="350" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YDomJGonDRvsGz5eeTiw-18" target="YDomJGonDRvsGz5eeTiw-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-18" value="担保协议信息查询" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="547" y="210" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-12" value="上海分行融资担保系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="292" y="140" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YDomJGonDRvsGz5eeTiw-17" target="YDomJGonDRvsGz5eeTiw-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-17" value="批次协议查询" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="367" y="210.76" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="YDomJGonDRvsGz5eeTiw-20" target="YDomJGonDRvsGz5eeTiw-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-20" value="存储协议信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="367" y="260" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YDomJGonDRvsGz5eeTiw-22" target="YDomJGonDRvsGz5eeTiw-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YDomJGonDRvsGz5eeTiw-22" value="同步协议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="292" y="270" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-26" value="项目信息" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="-734" width="180" height="150" as="geometry" />
@@ -857,6 +842,36 @@
         </mxCell>
         <mxCell id="yNy0M_cDwUBKnR9gc6ZV-23" value="通过" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1266" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-26" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="81" y="43" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-27" value="上海市担保中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="501" y="43" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-28" value="上海分行融资担保系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="291" y="43" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNy0M_cDwUBKnR9gc6ZV-30" target="yNy0M_cDwUBKnR9gc6ZV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-30" value="担保协议信息查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="103" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNy0M_cDwUBKnR9gc6ZV-32" target="yNy0M_cDwUBKnR9gc6ZV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-32" value="批次协议查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="103.75999999999999" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-33" value="存储协议信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="153" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNy0M_cDwUBKnR9gc6ZV-35" target="yNy0M_cDwUBKnR9gc6ZV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-35" value="同步协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="103" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
