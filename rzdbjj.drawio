@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2">
   <diagram name="第 1 页" id="pgq3QsQa63Pyk4cBfWm0">
-    <mxGraphModel dx="1114" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YDomJGonDRvsGz5eeTiw-250" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="170" width="210" height="910" as="geometry" />
+          <mxGeometry x="1120" y="170" width="210" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-251" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="170" width="210" height="910" as="geometry" />
+          <mxGeometry x="1330" y="170" width="210" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-252" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="170" width="210" height="910" as="geometry" />
+          <mxGeometry x="1540" y="170" width="210" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-249" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="910" y="170" width="210" height="910" as="geometry" />
+          <mxGeometry x="910" y="170" width="210" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="YDomJGonDRvsGz5eeTiw-248" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="502" y="180" width="210" height="1370" as="geometry" />
@@ -800,6 +800,27 @@
         </mxCell>
         <mxCell id="yNy0M_cDwUBKnR9gc6ZV-4" value="解除审批已驳回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="967" y="883.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNy0M_cDwUBKnR9gc6ZV-7" target="yNy0M_cDwUBKnR9gc6ZV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-7" value="撤回项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1050" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNy0M_cDwUBKnR9gc6ZV-8" target="yNy0M_cDwUBKnR9gc6ZV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-8" value="撤回项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1050" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yNy0M_cDwUBKnR9gc6ZV-9" target="yNy0M_cDwUBKnR9gc6ZV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-9" value="撤回项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1050" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNy0M_cDwUBKnR9gc6ZV-12" value="已撤回" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1394" y="1110" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
