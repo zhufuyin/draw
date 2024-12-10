@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="第 1 页" id="pgq3QsQa63Pyk4cBfWm0">
-    <mxGraphModel dx="1238" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1255" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1112,12 +1112,6 @@
         <mxCell id="aanO9daIQXf1rX8JwICy-32" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="1175" y="-734" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aanO9daIQXf1rX8JwICy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="aanO9daIQXf1rX8JwICy-10" target="aanO9daIQXf1rX8JwICy-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aanO9daIQXf1rX8JwICy-10" value="&lt;div&gt;BDS&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-1020" width="130" height="53.00000000000001" as="geometry" />
-        </mxCell>
         <mxCell id="aanO9daIQXf1rX8JwICy-37" value="XML, AES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1282" y="-883" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1126,6 +1120,18 @@
             <mxPoint x="420" y="-540" as="sourcePoint" />
             <mxPoint x="520" y="-640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aanO9daIQXf1rX8JwICy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aanO9daIQXf1rX8JwICy-39" target="aanO9daIQXf1rX8JwICy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aanO9daIQXf1rX8JwICy-39" value="BDS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="-1020" width="77" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aanO9daIQXf1rX8JwICy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aanO9daIQXf1rX8JwICy-40" target="aanO9daIQXf1rX8JwICy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aanO9daIQXf1rX8JwICy-40" value="任务管理平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="-1020" width="92" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
